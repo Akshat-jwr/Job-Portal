@@ -1,3 +1,5 @@
+First you may clone this code in your system and then do npm start in the terminal when inside this folder
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
