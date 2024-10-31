@@ -33,7 +33,7 @@ export default function Navbar() {
                         <li><a href="#Homepage">Home</a></li>
                         <li><a href="#jobs">Locations</a></li>
                         <li><a href="#jobs">Jobs</a></li>
-                        <li><a href="#">Benefits</a></li>
+                        <li><a href="#jobs">Benefits</a></li>
                     </ul>
                 </div>
                 <div className={styles.second}>
@@ -46,7 +46,7 @@ export default function Navbar() {
                             <li><a href="#Homepage">Home</a></li>
                             <li><a href="#jobs">Locations</a></li>
                             <li><a href="#jobs">Jobs</a></li>
-                            <li><a href="#">Benefits</a></li>
+                            <li><a href="#jobs">Benefits</a></li>
                         </ul>
                     </div>
 
