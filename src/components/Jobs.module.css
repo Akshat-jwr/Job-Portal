@@ -1,0 +1,76 @@
+.jobscontainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  padding: 16px;
+  max-height: auto;
+  border:2px solid rgb(0, 217, 255);
+  border-radius: 12px;
+}
+
+.JOBOPENINGS{
+  margin: 10px;
+  margin-top: 3rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.Heading h1 {
+  text-align: center;
+  font-size: 3.5rem;
+}
+
+.filterDropdown{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.lab{
+  font-size: 1.5rem;
+  margin-right: 0.2rem;
+}
+
+.drop{
+  font-size: 1.1rem;
+  padding: 0.2rem;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.pagination button {
+  padding: 0.5rem 1rem;
+  font-size: 0.8rem;
+  border: 1px solid #00f2ff;
+  background-color: #f9f9f9;
+  color: #000000;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.pagination button:hover{
+  transform: scale(1.03);
+}
+
+.pagination button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.pagination button:disabled:hover {
+  transform: none;
+}
+
+@media (max-width: 768px) {
+  .jobscontainer {
+    grid-template-columns: 1fr;
+  }
+}

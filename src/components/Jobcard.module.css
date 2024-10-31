@@ -1,0 +1,56 @@
+.jobcard {
+  position: relative;
+  border: 1px solid #e5e5e5;
+  padding: 16px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 16px;
+}
+
+.moreButton {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  font-size: 24px;
+  color: inherit;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.moreButton:hover{
+  transform: scale(1.2);
+}
+
+.jobtitle {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #00f2ff;
+  margin: 0 0 8px;
+}
+
+.companyname {
+  font-size: 1rem;
+  color: #666;
+  margin: 0;
+}
+
+.location {
+  font-size: 0.875rem;
+  color: #888;
+  margin: 4px 0;
+}
+
+.jobtype {
+  display: inline-block;
+  margin: 1px;
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.description {
+  margin-top: 12px;
+  font-size: 0.875rem;
+  line-height: 1.5;
+}

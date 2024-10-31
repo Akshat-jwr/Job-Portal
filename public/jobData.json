@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "TechSolutions",
+    "location": "Bengaluru, Karnataka",
+    "type": "Full-time",
+    "description": "Develop and maintain user interfaces using React and JavaScript.",
+    "largeDescription": "As a Frontend Developer at TechSolutions, you will design high-quality interfaces using React and JavaScript. Collaborate closely with our UX team to deliver seamless user experiences for clients across industries. Work in an environment that values growth and innovation.",
+    "salary": "₹8,00,000 - ₹12,00,000 per year"
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "company": "Innovate India",
+    "location": "Hyderabad, Telangana",
+    "type": "Full-time",
+    "description": "Build scalable APIs and manage databases for enterprise applications.",
+    "largeDescription": "Join Innovate India as a Backend Developer, where you'll design and implement robust APIs and manage large-scale databases. You will collaborate with cross-functional teams to create solutions that meet the demands of a growing client base. Our team values efficiency and collaboration.",
+    "salary": "₹10,00,000 - ₹15,00,000 per year"
+  },
+  {
+    "id": 3,
+    "title": "Data Scientist",
+    "company": "DataSphere",
+    "location": "Pune, Maharashtra",
+    "type": "Contract",
+    "description": "Analyze datasets and build machine learning models for predictive insights.",
+    "largeDescription": "DataSphere is looking for a Data Scientist who can extract valuable insights from complex datasets. In this role, you'll work on building predictive models and contribute to data-driven decisions. We are looking for an individual who is passionate about data and innovation.",
+    "salary": "₹5,00,000 - ₹8,00,000 per project"
+  },
+  {
+    "id": 4,
+    "title": "Product Manager",
+    "company": "BuildWell",
+    "location": "Mumbai, Maharashtra",
+    "type": "Full-time",
+    "description": "Lead product development and manage cross-functional teams.",
+    "largeDescription": "As a Product Manager at BuildWell, you will oversee our product lifecycle from concept to launch. You will work with engineering, design, and marketing teams to deliver user-focused solutions. This role requires strategic thinking and strong leadership abilities.",
+    "salary": "₹12,00,000 - ₹18,00,000 per year"
+  },
+  {
+    "id": 5,
+    "title": "UI/UX Designer",
+    "company": "DesignStudio",
+    "location": "New Delhi, Delhi",
+    "type": "Part-time",
+    "description": "Create engaging user interfaces and improve user experiences.",
+    "largeDescription": "At DesignStudio, we are seeking a UI/UX Designer to develop interfaces that resonate with our audience. You will work on diverse projects and collaborate with our product teams to improve usability. Join us to create designs that are both visually appealing and functional.",
+    "salary": "₹3,00,000 - ₹5,00,000 per year"
+  },
+  {
+    "id": 6,
+    "title": "Mobile Developer",
+    "company": "AppSphere",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Full-time",
+    "description": "Develop mobile applications for Android and iOS platforms.",
+    "largeDescription": "AppSphere is hiring a Mobile Developer who will work on creating apps for Android and iOS. You will collaborate with a passionate team to deliver high-performance applications. If you enjoy mobile development and are ready to solve challenges, this is the role for you.",
+    "salary": "₹7,00,000 - ₹10,00,000 per year"
+  },
+  {
+    "id": 7,
+    "title": "DevOps Engineer",
+    "company": "CloudSync",
+    "location": "Gurugram, Haryana",
+    "type": "Contract",
+    "description": "Automate deployments and manage cloud infrastructure.",
+    "largeDescription": "At CloudSync, the DevOps Engineer will handle deployment pipelines, monitor system health, and manage cloud infrastructure. You will work in a collaborative environment that values efficient and scalable solutions.",
+    "salary": "₹4,00,000 - ₹6,00,000 per project"
+  },
+  {
+    "id": 8,
+    "title": "Software Engineer",
+    "company": "CodeNation",
+    "location": "Kolkata, West Bengal",
+    "type": "Full-time",
+    "description": "Develop software applications using Java and Python.",
+    "largeDescription": "Join CodeNation as a Software Engineer to create impactful software solutions using Java and Python. You’ll work with a dedicated team to tackle real-world challenges, with a focus on delivering quality code and efficient solutions.",
+    "salary": "₹2,00,000 - ₹3,00,000 per year"
+  },
+  {
+    "id": 9,
+    "title": "QA Engineer",
+    "company": "QualityFirst",
+    "location": "Ahmedabad, Gujarat",
+    "type": "Part-time",
+    "description": "Test software to ensure quality and performance standards.",
+    "largeDescription": "As a QA Engineer at QualityFirst, you will work alongside developers to test and refine software products. Your role is essential to maintaining high-quality releases that meet client expectations. Attention to detail is key in this dynamic role.",
+    "salary": "₹2,50,000 - ₹4,00,000 per year"
+  },
+  {
+    "id": 10,
+    "title": "Machine Learning Engineer",
+    "company": "AITech",
+    "location": "Bengaluru, Karnataka",
+    "type": "Full-time",
+    "description": "Develop machine learning models and deploy them into production.",
+    "largeDescription": "AITech is looking for a Machine Learning Engineer who will develop and deploy ML models for production use. This role offers the opportunity to work with cutting-edge technologies and make a substantial impact in a growing field.",
+    "salary": "₹20,00,000 - ₹24,00,000 per year"
+  },
+  {
+    "id": 11,
+    "title": "Business Analyst",
+    "company": "Insight Analytics",
+    "location": "Mumbai, Maharashtra",
+    "type": "Contract",
+    "description": "Analyze business requirements and support decision-making.",
+    "largeDescription": "Insight Analytics is looking for a skilled Business Analyst to interpret business needs and design strategic solutions. You’ll assist in data analysis and project planning to guide decision-making across various projects.",
+    "salary": "₹6,00,000 - ₹8,00,000 per project"
+  },
+  {
+    "id": 12,
+    "title": "Cybersecurity Specialist",
+    "company": "SecureIT",
+    "location": "New Delhi, Delhi",
+    "type": "Full-time",
+    "description": "Protect systems and networks from cyber threats.",
+    "largeDescription": "SecureIT is searching for a Cybersecurity Specialist dedicated to safeguarding systems and networks. Your expertise will be crucial in identifying vulnerabilities, implementing security protocols, and maintaining secure environments.",
+    "salary": "₹10,00,000 - ₹14,00,000 per year"
+  },
+  {
+    "id": 13,
+    "title": "Database Administrator",
+    "company": "DataCore",
+    "location": "Pune, Maharashtra",
+    "type": "Full-time",
+    "description": "Manage and maintain company databases.",
+    "largeDescription": "As a Database Administrator at DataCore, you will handle database management, monitoring, and troubleshooting. Your role will support database performance and scalability for the organization.",
+    "salary": "₹8,00,000 - ₹12,00,000 per year"
+  },
+  {
+    "id": 14,
+    "title": "Content Writer",
+    "company": "WriteWell",
+    "location": "Mumbai, Maharashtra",
+    "type": "Part-time",
+    "description": "Create engaging content for websites and blogs.",
+    "largeDescription": "WriteWell is hiring a Content Writer to produce high-quality articles, blogs, and web content. Join a creative team dedicated to delivering impactful writing that engages and informs audiences.",
+    "salary": "₹3,00,000 - ₹5,00,000 per year"
+  },
+  {
+    "id": 15,
+    "title": "Digital Marketing Specialist",
+    "company": "AdVantage",
+    "location": "Bengaluru, Karnataka",
+    "type": "Full-time",
+    "description": "Develop and execute digital marketing campaigns.",
+    "largeDescription": "AdVantage seeks a Digital Marketing Specialist to drive online campaigns across social and digital platforms. Use data insights to improve reach, optimize ROI, and increase engagement for brands.",
+    "salary": "₹6,00,000 - ₹9,00,000 per year"
+  },
+  {
+    "id": 16,
+    "title": "Graphic Designer",
+    "company": "CreativeHub",
+    "location": "New Delhi, Delhi",
+    "type": "Contract",
+    "description": "Design graphics for marketing and social media.",
+    "largeDescription": "CreativeHub seeks a Graphic Designer passionate about visual storytelling. Create graphics that captivate and drive marketing efforts across various channels.",
+    "salary": "₹3,00,000 - ₹5,00,000 per project"
+  },
+  {
+    "id": 17,
+    "title": "Sales Manager",
+    "company": "SalesForce India",
+    "location": "Kolkata, West Bengal",
+    "type": "Full-time",
+    "description": "Drive sales strategies and manage sales teams.",
+    "largeDescription": "As a Sales Manager, lead the charge in strategizing and meeting sales targets. Coordinate with teams to deliver exceptional client service and achieve revenue goals.",
+    "salary": "₹10,00,000 - ₹15,00,000 per year"
+  },
+  {
+    "id": 18,
+    "title": "Operations Manager",
+    "company": "EfficientOps",
+    "location": "Hyderabad, Telangana",
+    "type": "Full-time",
+    "description": "Oversee day-to-day operations and improve efficiency.",
+    "largeDescription": "At EfficientOps, you will streamline operations, identify process improvements, and ensure smooth daily operations. This role demands attention to detail and organizational skills.",
+    "salary": "₹9,00,000 - ₹13,00,000 per year"
+  },
+  {
+    "id": 19,
+    "title": "Recruitment Specialist",
+    "company": "Talent Solutions",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Contract",
+    "description": "Source and recruit talent for various roles.",
+    "largeDescription": "Talent Solutions seeks a Recruitment Specialist to find top talent across industries. Manage end-to-end recruitment, including interviewing, screening, and onboarding.",
+    "salary": "₹4,00,000 - ₹6,00,000 per project"
+  },
+  {
+    "id": 20,
+    "title": "Financial Analyst",
+    "company": "FinServe",
+    "location": "Ahmedabad, Gujarat",
+    "type": "Full-time",
+    "description": "Conduct financial analysis and prepare reports.",
+    "largeDescription": "Join FinServe as a Financial Analyst, focusing on data interpretation and financial forecasting. Use your expertise to help guide financial decisions and assess investment opportunities.",
+    "salary": "₹6,00,000 - ₹9,00,000 per year"
+  },
+  {
+    "id": 21,
+    "title": "Social Media Manager",
+    "company": "SocialBuzz",
+    "location": "Pune, Maharashtra",
+    "type": "Full-time",
+    "description": "Manage social media content and engagement.",
+    "largeDescription": "SocialBuzz is seeking a Social Media Manager to build brand visibility and increase engagement. Work closely with content and design teams to curate impactful posts that captivate audiences.",
+    "salary": "₹5,00,000 - ₹8,00,000 per year"
+  },
+  {
+    "id": 22,
+    "title": "Human Resources Manager",
+    "company": "PeopleFirst",
+    "location": "Mumbai, Maharashtra",
+    "type": "Full-time",
+    "description": "Manage HR functions including recruitment and employee relations.",
+    "largeDescription": "PeopleFirst is hiring an HR Manager responsible for recruitment, employee relations, and policy implementation. Be part of a team committed to supporting employee growth and well-being.",
+    "salary": "₹9,00,000 - ₹12,00,000 per year"
+  },
+  {
+    "id": 23,
+    "title": "Legal Advisor",
+    "company": "LawConsult",
+    "location": "New Delhi, Delhi",
+    "type": "Contract",
+    "description": "Provide legal counsel and handle documentation.",
+    "largeDescription": "Join LawConsult as a Legal Advisor, offering expert legal counsel on projects and documentation. Ensure compliance and support clients with precise legal guidance.",
+    "salary": "₹5,00,000 - ₹8,00,000 per project"
+  },
+  {
+    "id": 24,
+    "title": "Supply Chain Manager",
+    "company": "LogisticsPro",
+    "location": "Bengaluru, Karnataka",
+    "type": "Full-time",
+    "description": "Optimize supply chain operations and logistics.",
+    "largeDescription": "At LogisticsPro, a Supply Chain Manager is needed to oversee and streamline logistics processes. Your role will focus on improving efficiency and reducing costs within the supply chain.",
+    "salary": "₹10,00,000 - ₹14,00,000 per year"
+  },
+  {
+    "id": 25,
+    "title": "Customer Support Representative",
+    "company": "HelpDesk Solutions",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Part-time",
+    "description": "Handle customer inquiries and resolve issues.",
+    "largeDescription": "HelpDesk Solutions needs a Customer Support Representative to assist customers with inquiries and problem resolution. Excellent communication skills are essential for this customer-focused role.",
+    "salary": "₹3,00,000 - ₹5,00,000 per year"
+  }
+]
